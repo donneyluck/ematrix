@@ -1,2 +1,2 @@
-# ematrix
-emacs configs for daliy use
+# Ematrix
+> [!CAUTION]
