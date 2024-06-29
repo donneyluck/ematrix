@@ -1,8 +1,11 @@
 # Ematrix
 > [!CAUTION]
 > This project is under construction
+>
 > Expected to take several weeks
+>
 > The architecture is borrowed from MinEmacs
+>
 > Use with caution
 
 ![Ematrix_banner](/assets/images/anonymous.png)
